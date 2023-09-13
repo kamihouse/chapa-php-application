@@ -1,0 +1,706 @@
+[
+    {
+        "description": "Class ChapaPhp\\Application\\Command extends unknown class ChapaPhp\\Domain\\Message.",
+        "fingerprint": "62717852ab804355f38782ab4cb66126226cb26f4c7428ed2d42cf035dd7a68d",
+        "severity": "blocker",
+        "location": {
+            "path": "src/Command.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "PHPDoc tag @extends has invalid type ChapaPhp\\Domain\\Message.",
+        "fingerprint": "95f69b8650079fd215043cc0198d3c0c9a746ee2116b2f875e287cf3c75da2f1",
+        "severity": "major",
+        "location": {
+            "path": "src/Command.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "PHPDoc tag @template T for interface ChapaPhp\\Application\\Dispatcher has invalid bound type ChapaPhp\\Domain\\Event.",
+        "fingerprint": "230e952e0ee02f920aab29064c41c0b8398b553b10f017c1de59cbfc28508fdc",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "PHPDoc tag @template T for interface ChapaPhp\\Application\\Dispatcher has invalid bound type ChapaPhp\\Domain\\Event.",
+        "fingerprint": "230e952e0ee02f920aab29064c41c0b8398b553b10f017c1de59cbfc28508fdc",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "PHPDoc tag @template T for interface ChapaPhp\\Application\\Dispatcher has invalid bound type ChapaPhp\\Domain\\Message.",
+        "fingerprint": "43b7d463ede2692bf8a63d2ab1bb93466aab9e8ba1a2622471af4626ccfa7932",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "PHPDoc tag @template T for interface ChapaPhp\\Application\\Dispatcher has invalid bound type ChapaPhp\\Domain\\Message.",
+        "fingerprint": "43b7d463ede2692bf8a63d2ab1bb93466aab9e8ba1a2622471af4626ccfa7932",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "4bdcf9afd8de645e7228f5be3ebac61b2a152c3db28381ec4702df66db70aac6",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 22
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "217ba1523a6292a929c091a19658bec884a9d160fa33e501c5f53efffc04120c",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 22
+            }
+        }
+    },
+    {
+        "description": "Parameter $context of method ChapaPhp\\Application\\Dispatcher::dispatch() has invalid type ChapaPhp\\Domain\\Event.",
+        "fingerprint": "0f2fdaf3a011318ba4c366f113eef11ffde3a665861a3c6c14a56c4cff6d22c0",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 22
+            }
+        }
+    },
+    {
+        "description": "Parameter $context of method ChapaPhp\\Application\\Dispatcher::dispatch() has invalid type ChapaPhp\\Domain\\Event.",
+        "fingerprint": "0f2fdaf3a011318ba4c366f113eef11ffde3a665861a3c6c14a56c4cff6d22c0",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 22
+            }
+        }
+    },
+    {
+        "description": "Parameter $context of method ChapaPhp\\Application\\Dispatcher::dispatch() has invalid type ChapaPhp\\Domain\\Message.",
+        "fingerprint": "590411f252ea97efb831f004a03a52c5b58ca656870311199b8d3812e69c2ec5",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 22
+            }
+        }
+    },
+    {
+        "description": "Parameter $context of method ChapaPhp\\Application\\Dispatcher::dispatch() has invalid type ChapaPhp\\Domain\\Message.",
+        "fingerprint": "590411f252ea97efb831f004a03a52c5b58ca656870311199b8d3812e69c2ec5",
+        "severity": "major",
+        "location": {
+            "path": "src/Dispatcher.php",
+            "lines": {
+                "begin": 22
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "1a19d73661156ab7d3512be6cdb6ae6d42f4cd2c28852ce38fe644a3bfa4c63c",
+        "severity": "major",
+        "location": {
+            "path": "src/Handler.php",
+            "lines": {
+                "begin": 18
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "83d2b11a2b2abcfa087357e7beac4bed7ad38e98b47db1f5a2353ef08b8daa2d",
+        "severity": "major",
+        "location": {
+            "path": "src/Handler.php",
+            "lines": {
+                "begin": 18
+            }
+        }
+    },
+    {
+        "description": "Class ChapaPhp\\Application\\HeaderBuilder implements unknown interface ChapaPhp\\Domain\\Creator\\Builder.",
+        "fingerprint": "30ab2003a89ded1be950e2f39f7edee783d2c67ae5b85a03224b727ce59c5c07",
+        "severity": "blocker",
+        "location": {
+            "path": "src/HeaderBuilder.php",
+            "lines": {
+                "begin": 9
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "f7e5e1421dce7bc2d4906952256ad4ccb3b2a6753d99de38b8bb2b8501439f71",
+        "severity": "major",
+        "location": {
+            "path": "src/HeaderBuilder.php",
+            "lines": {
+                "begin": 36
+            }
+        }
+    },
+    {
+        "description": "Class ChapaPhp\\Application\\Query extends unknown class ChapaPhp\\Domain\\Message.",
+        "fingerprint": "639f532f352be3e964fb75ecce59b753a42f591a13ac99b3fdf816c126b18328",
+        "severity": "blocker",
+        "location": {
+            "path": "src/Query.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "PHPDoc tag @extends has invalid type ChapaPhp\\Domain\\Message.",
+        "fingerprint": "34fe1c6b96f8dc2a8785e514e838190c4dd70c8fa03f9473bbf826aa1166977e",
+        "severity": "major",
+        "location": {
+            "path": "src/Query.php",
+            "lines": {
+                "begin": 15
+            }
+        }
+    },
+    {
+        "description": "Type null in generic type ChapaPhp\\Application\\Result<bool|float|int|object|string, null> in PHPDoc tag @return is not subtype of template type TError of Exception of class ChapaPhp\\Application\\Result.",
+        "fingerprint": "31f5b3582e3eb4df83b3a74651967cfddc8c1721e5105e5f9bc89ced2c5ee5f3",
+        "severity": "major",
+        "location": {
+            "path": "src/Result.php",
+            "lines": {
+                "begin": 28
+            }
+        }
+    },
+    {
+        "description": "Method ChapaPhp\\Application\\Result::success() should return ChapaPhp\\Application\\Result<TValue of bool|float|int|object|string, null> but returns ChapaPhp\\Application\\Result<TValue of bool|float|int|object|string, Exception>.",
+        "fingerprint": "e8b89be217ff896784062d2bd7ed98c8c0c01b61314a01b977f62c1c11edcc8d",
+        "severity": "major",
+        "location": {
+            "path": "src/Result.php",
+            "lines": {
+                "begin": 30
+            }
+        }
+    },
+    {
+        "description": "Type null in generic type ChapaPhp\\Application\\Result<null, Exception> in PHPDoc tag @return is not subtype of template type TValue of bool|float|int|object|string of class ChapaPhp\\Application\\Result.",
+        "fingerprint": "e23b076420caf725ae01b6583f1a082e12409cd8958e6a932f808f025305ab82",
+        "severity": "major",
+        "location": {
+            "path": "src/Result.php",
+            "lines": {
+                "begin": 38
+            }
+        }
+    },
+    {
+        "description": "Method ChapaPhp\\Application\\Result::failure() should return ChapaPhp\\Application\\Result<null, TError of Exception> but returns ChapaPhp\\Application\\Result<bool|float|int|object|string, TError of Exception>.",
+        "fingerprint": "bd50ae02ad8a8114d0c6ac45b848a0b5470859c516e9d988c2fef74cc792322b",
+        "severity": "major",
+        "location": {
+            "path": "src/Result.php",
+            "lines": {
+                "begin": 40
+            }
+        }
+    },
+    {
+        "description": "Parameter #2 $value of class ChapaPhp\\Application\\Result constructor expects TValue of bool|float|int|object|string, null given.",
+        "fingerprint": "a604e2cc01613e80d8a249d2ac1f28d737f7567d946bd2a27991668ff62f59a6",
+        "severity": "major",
+        "location": {
+            "path": "src/Result.php",
+            "lines": {
+                "begin": 40
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "14b5daf14a944d9fbd07e0408c3d9e1218040622fdc47836e7b4b8745c2c054d",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 30
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "14b5daf14a944d9fbd07e0408c3d9e1218040622fdc47836e7b4b8745c2c054d",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 30
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "14b5daf14a944d9fbd07e0408c3d9e1218040622fdc47836e7b4b8745c2c054d",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 30
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "fb8bd71604767d09d68ae49542f184747c678e27fd8b4cf2d8ca03925c931447",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 30
+            }
+        }
+    },
+    {
+        "description": "Method Tests\\TestCase::reflectClass() return type with generic class ReflectionClass does not specify its types: T",
+        "fingerprint": "6ab9fe34c80f4f5cfa9f8f36bf18c60a28c1c2c95eae4e8276e7c2ee970e03f5",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 45
+            }
+        }
+    },
+    {
+        "description": "Template type T of method Tests\\TestCase::reflectClass() is not referenced in a parameter.",
+        "fingerprint": "2d6759ea4602e5be1e26bd03b918f4f2d37346e6e8638cae2122f73f9b196f64",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 45
+            }
+        }
+    },
+    {
+        "description": "Parameter #1 $objectOrClass of class ReflectionClass constructor expects class-string<T of object>|T of object, string given.",
+        "fingerprint": "9db0dfa130ad62f5686b309d3269386f6bc03c0ca98b0146fefb7a8e6b86f521",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 47
+            }
+        }
+    },
+    {
+        "description": "Method Tests\\TestCase::setVisibility() has no return type specified.",
+        "fingerprint": "4b3025d3d09338143be973f34c5dedf8ffb98dbac7ef7add3ae997b1499b6823",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 55
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "d32956166b76843d765fb334af3f514092907840984ffb6b118da8000c397408",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 55
+            }
+        }
+    },
+    {
+        "description": "Template type T of method Tests\\TestCase::setVisibility() is not referenced in a parameter.",
+        "fingerprint": "262edf4e33dc5623f4e8876cd87368ac1f66ad66d8939a2fff038669728037ad",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 55
+            }
+        }
+    },
+    {
+        "description": "Method Tests\\TestCase::assertMethodCalled() has no return type specified.",
+        "fingerprint": "55b24448e3bd62cf9c111a187651b991b593d49130a5b636a4b35680c878c9b8",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 68
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "c6ef616e29ca5d90526cc82ca6f15c943044a6ce3947a728d590a26ff0aecd76",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 68
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "c6ef616e29ca5d90526cc82ca6f15c943044a6ce3947a728d590a26ff0aecd76",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 68
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "bfeb94fc60573754b5222faf8f71b6b000b07f6afbe89d34812338bebfecd399",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 68
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\TestCase::once().",
+        "fingerprint": "ea62e6731dbc20cc92933b4c1d851a89011a495b2fbe8b8513938db6b4f257d2",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 70
+            }
+        }
+    },
+    {
+        "description": "Method Tests\\TestCase::assertMethodNotCalled() has no return type specified.",
+        "fingerprint": "80a55d76063ab9e98f4da791dee12fd48da89e91ac90c1e434361e92c9f6bd1c",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 81
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "1538d1647b1dbb76207233011700dff8ee4e075345a0f0d641f366bfaf4ef701",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 81
+            }
+        }
+    },
+    {
+        "description": "Out of 27 possible param types, only 18 - 66.7 % actually have it. Add more param types to get over 99 %",
+        "fingerprint": "1538d1647b1dbb76207233011700dff8ee4e075345a0f0d641f366bfaf4ef701",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 81
+            }
+        }
+    },
+    {
+        "description": "Out of 30 possible return types, only 23 - 76.7 % actually have it. Add more return types to get over 99 %",
+        "fingerprint": "a6b3e6caa970c430df979527fe39a35317f407a40c0ab70bc0b4c8758a9fc360",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 81
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\TestCase::never().",
+        "fingerprint": "595981e1fb8c607a4a4ce4b257444b55c1bffd83af28c814fa234ccc090ab216",
+        "severity": "major",
+        "location": {
+            "path": "tests/TestCase.php",
+            "lines": {
+                "begin": 83
+            }
+        }
+    },
+    {
+        "description": "Call to method PHPUnit\\Framework\\Assert::assertInstanceOf() with 'Exception' and ChapaPhp\\Application\\Error\\ApplicationError will always evaluate to true.",
+        "fingerprint": "36aa7b4b5e177c8277dd812066457aac21d87bcf523b7700585f408169141e99",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/Error/ApplicationErrorTest.php",
+            "lines": {
+                "begin": 21
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertInstanceOf().",
+        "fingerprint": "c0e4bdde1c26312d0bc7174c0d19c46010f07f29e9cda356bb035f0eb49e7473",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/Error/ApplicationErrorTest.php",
+            "lines": {
+                "begin": 21
+            }
+        }
+    },
+    {
+        "description": "Call to method PHPUnit\\Framework\\Assert::assertInstanceOf() with 'ChapaPhp\\\\Application\\\\Error\\\\ApplicationError' and ChapaPhp\\Application\\Error\\ApplicationError will always evaluate to true.",
+        "fingerprint": "e580ebfd22cc349d9f30717aee32cccc886a275c34e6f13d69097f107cb8f327",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/Error/ApplicationErrorTest.php",
+            "lines": {
+                "begin": 29
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertInstanceOf().",
+        "fingerprint": "0ee9e2f26ccf0776b72212f18d3d5f43eccb7696a771e13a6bf1e29c1c392cc3",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/Error/ApplicationErrorTest.php",
+            "lines": {
+                "begin": 29
+            }
+        }
+    },
+    {
+        "description": "Call to method PHPUnit\\Framework\\Assert::assertInstanceOf() with 'ChapaPhp\\\\Application\\\\HeaderBuilder' and ChapaPhp\\Application\\HeaderBuilder will always evaluate to true.",
+        "fingerprint": "2585d1af1eccfb440821c208741e86c1597f5f75bcff9ff440e1ff73cd8d9949",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/HeaderBuilderTest.php",
+            "lines": {
+                "begin": 31
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertInstanceOf().",
+        "fingerprint": "893db8345320d38da76750bbd3e658ca81a02cf33705fdea90349fdaf76ad88f",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/HeaderBuilderTest.php",
+            "lines": {
+                "begin": 31
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertEquals().",
+        "fingerprint": "d95cc8d1fa424dee6a9662b8695498579926a2987fa6dfd8c644c05131993eb0",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/HeaderBuilderTest.php",
+            "lines": {
+                "begin": 39
+            }
+        }
+    },
+    {
+        "description": "Method Tests\\Unit\\HeaderBuilderTest::headerProvider() return type has no value type specified in iterable type iterable.",
+        "fingerprint": "fb1aeedad91af3080326cdef860ad0f43a1043a2106d5a637fb1bff1eaeec733",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/HeaderBuilderTest.php",
+            "lines": {
+                "begin": 42
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertEquals().",
+        "fingerprint": "d8afa76a1c93f6d20f4b87c68d0d650c3a774d7453ab7d9d95b5f9505e734fbf",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/HeaderBuilderTest.php",
+            "lines": {
+                "begin": 71
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertEquals().",
+        "fingerprint": "efec33435c982f224f74975da8556f4e5212a2acfc8355b4ecf560346036abac",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/HeaderBuilderTest.php",
+            "lines": {
+                "begin": 72
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertTrue().",
+        "fingerprint": "93a9e4ec47e25ce9e9fc40d4f22040f93044eb32738f7a3649cd8c798c9feea2",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 23
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertSame().",
+        "fingerprint": "16a8eb8e76a3a4c9dcff52a3a59e6825f15387bdbe91c847e3a6e992fea5ffa9",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 24
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertFalse().",
+        "fingerprint": "7fdbe95a39702d364a873ccade09ed4b0ed21b0fd01cfba748a18bb22b268a88",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 25
+            }
+        }
+    },
+    {
+        "description": "Call to method PHPUnit\\Framework\\Assert::assertNull() with null will always evaluate to true.",
+        "fingerprint": "6462d48f26130828db9588d32d832b6879be731f2e03d0dcd3c39a6da303abb2",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 26
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertNull().",
+        "fingerprint": "22bb17461630a79c378930099f165ca8d85ec8ba70937d91e70d335b4183b65d",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 26
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertTrue().",
+        "fingerprint": "b2676e6331ebb97ba3a511b11930f976d6d2fe38465475b62eff2912a4c5b659",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 37
+            }
+        }
+    },
+    {
+        "description": "Call to method PHPUnit\\Framework\\Assert::assertNull() with null will always evaluate to true.",
+        "fingerprint": "1b7d41a4b1252513d54ef5aa163def6eed0ec27e01b40b91168ada80c721d931",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 38
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertNull().",
+        "fingerprint": "4776d1c62a1d3965e6953d7c893beddb65d3c45d81a46a32c10814397f43303e",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 38
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertSame().",
+        "fingerprint": "67e1d4d06ff50cd563a6fe092154697d7f2402a671800bbe849f5556421b27e1",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 39
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertFalse().",
+        "fingerprint": "9ca7468f0906aee73d40382f8436bcf7f2cfb3d9e60516374438bf9e17845c7d",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 40
+            }
+        }
+    },
+    {
+        "description": "Dynamic call to static method PHPUnit\\Framework\\Assert::assertTrue().",
+        "fingerprint": "c8a87981b4b7d4541acb9dba5c2ac832f20f6e43ce7889e61d87c21391a7bc7c",
+        "severity": "major",
+        "location": {
+            "path": "tests/Unit/ResultTest.php",
+            "lines": {
+                "begin": 41
+            }
+        }
+    }
+]

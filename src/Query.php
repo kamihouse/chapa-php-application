@@ -12,6 +12,6 @@ use ChapaPhp\Domain\Message;
  *
  * @extends Message<H, P>
  */
-abstract class Command extends Message
+abstract class Query extends Message
 {
 }
